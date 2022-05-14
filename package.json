@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -o",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@mdi/js": "^6.6.96",
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "mdi-vue": "^3.0.13"
+  }
+}
